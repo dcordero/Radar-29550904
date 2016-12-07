@@ -1,4 +1,4 @@
-# tvOS-AVPlayerViewController-Bug
+# Remote App does not trigger Tap gestures
 Project created to report bug on iOS Remote App
 
 · Open radar: https://openradar.appspot.com/radar?id=5020390241861632
