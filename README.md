@@ -1,7 +1,7 @@
 # tvOS-AVPlayerViewController-Bug
 Project created to report bug on iOS Remote App
 
-· Open radar: 
+· Open radar: https://openradar.appspot.com/radar?id=5020390241861632
 
 # Description
 When using the App Remote for iOS there is not way to trigger Tap gestures. Event on devices with 3D Touch tap gestures are triggered as Select to the methods `pressesBegan`, `pressesEnded`, `pressesChanged` and `pressesCancelled`
