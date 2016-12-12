@@ -1,7 +1,7 @@
 # Remote App does not trigger Tap gestures
 Project created to report bug on iOS Remote App
 
-· Open radar: https://openradar.appspot.com/radar?id=5020390241861632
+· Open radar: https://openradar.appspot.com/29550904
 
 # Description
 When using the App Remote for iOS there is not way to trigger Tap gestures. 
